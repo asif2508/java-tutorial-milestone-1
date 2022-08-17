@@ -28,5 +28,7 @@ public class MyFirstApp{
     System.out.println("The Numbeer of seats "+ milage +" of my car: "+numberOfSeats);
     
     // variable and constant
+
+    // 
     }
 }
